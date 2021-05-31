@@ -1,2 +1,2 @@
 # luisgomezwebsite
-Este repositorio es para la plataforma niceeat
+Este repositorio es para crear una landing para Luis
